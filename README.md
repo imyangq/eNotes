@@ -1,2 +1,2 @@
 # eNotes
-This is a repository for my notes.
+This is a repository for my notes! Welcome!
